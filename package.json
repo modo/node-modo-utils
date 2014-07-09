@@ -1,0 +1,12 @@
+{
+  "author": "Modo Design Group <developer@mododesigngroup.com>",
+  "name": "modo",
+  "version": "2.0.0",
+  "description": "Modo utilities.",
+  "main": "index.js",
+  "repository": "",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.3.3"
+  }
+}
